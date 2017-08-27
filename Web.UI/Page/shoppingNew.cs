@@ -1,0 +1,53 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Data;
+using System.Web;
+using Common;
+
+namespace Web.UI.Page
+{
+    public partial class shoppingNew : Web.UI.BasePage
+    {
+        protected string action = string.Empty;
+        protected Model.cart_total cartModel;
+        protected Model.users userModel1;
+        protected Model.orderconfig orderConfig = new BLL.orderconfig().loadConfig();
+
+        /// <summary>
+        /// 重写父类的虚方法,此方法将在Init事件前执行
+        /// </summary>
+        protected override void ShowPage()
+        {
+            action = AXRequest.GetQueryString("action");
+            this.Init += new EventHandler(shopping_Init); //加入Init事件
+        }
+        /// <summary>
+        /// 将在Init事件执行
+        /// </summary>
+        protected void shopping_Init(object sender, EventArgs e)
+        {
+            int group_id = 0;
+            userModel1 = GetUserInfo();
+            if (userModel1 != null)
+            {
+                group_id = userModel1.group_id;
+            }
+            if (action == "confirm" && userModel1 == null)
+            {
+                userModel1 = new Model.users();
+                userModel1.user_name = "Guest";
+                //if (orderConfig.anonymous == 0)
+                //{
+                //    //自动跳转URL
+                //    HttpContext.Current.Response.Redirect(linkurl("login"));
+                //}
+            }
+            if (userModel1 != null)
+            {
+                cartModel = Web.UI.ShopCart.GetTotalNew(userModel1.id);
+            }
+          
+        }
+    }
+}

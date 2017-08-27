@@ -1,0 +1,10 @@
+-----------------2016-05-01 19:29:30-----------------
+http://localhost:2573/tools/upload_ajax.ashx?action=ExcelFile
+ConvertExcelFileToTable:'C:\upload\201605\01\201605011929251113.xlsx'不是一个有效的路径。 确定路径名称拼写是否正确，以及是否连接到文件存放的服务器。
+
+
+-----------------2016-05-01 19:33:11-----------------
+http://localhost:2573/tools/upload_ajax.ashx?action=ExcelFile
+ConvertExcelFileToTable:'C:\upload\201605\01\201605011932457918.xlsx'不是一个有效的路径。 确定路径名称拼写是否正确，以及是否连接到文件存放的服务器。
+
+

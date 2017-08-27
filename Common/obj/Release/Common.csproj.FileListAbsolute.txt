@@ -1,0 +1,16 @@
+E:\CSharp\Shop\Common\bin\Release\Common.dll
+E:\CSharp\Shop\Common\bin\Release\Common.pdb
+E:\CSharp\Shop\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\CSharp\Shop\Common\obj\Release\Common.dll
+E:\CSharp\Shop\Common\obj\Release\Common.pdb
+D:\QQ\Bin\源码1021\源码1002\Common\bin\Release\Common.dll
+D:\QQ\Bin\源码1021\源码1002\Common\bin\Release\Common.pdb
+D:\QQ\Bin\源码1021\源码1002\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+D:\QQ\Bin\源码1021\源码1002\Common\obj\Release\Common.csproj.ResolveComReference.cache
+D:\QQ\Bin\源码1021\源码1002\Common\obj\Release\Common.dll
+D:\QQ\Bin\源码1021\源码1002\Common\obj\Release\Common.pdb
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\Common\bin\Release\Common.dll
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\Common\bin\Release\Common.pdb
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\Common\obj\Release\Common.dll
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\Common\obj\Release\Common.pdb

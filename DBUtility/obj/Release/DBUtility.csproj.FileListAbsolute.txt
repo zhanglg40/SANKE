@@ -1,0 +1,15 @@
+E:\CSharp\Shop\DBUtility\bin\Release\DBUtility.dll
+E:\CSharp\Shop\DBUtility\bin\Release\DBUtility.pdb
+E:\CSharp\Shop\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+E:\CSharp\Shop\DBUtility\obj\Release\DBUtility.dll
+E:\CSharp\Shop\DBUtility\obj\Release\DBUtility.pdb
+D:\QQ\Bin\源码1021\源码1002\DBUtility\bin\Release\DBUtility.dll
+D:\QQ\Bin\源码1021\源码1002\DBUtility\bin\Release\DBUtility.pdb
+D:\QQ\Bin\源码1021\源码1002\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+D:\QQ\Bin\源码1021\源码1002\DBUtility\obj\Release\DBUtility.dll
+D:\QQ\Bin\源码1021\源码1002\DBUtility\obj\Release\DBUtility.pdb
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\DBUtility\bin\Release\DBUtility.dll
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\DBUtility\bin\Release\DBUtility.pdb
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\DBUtility\obj\Release\DBUtility.dll
+E:\CSharp\Shop\Guomaocheng20170719\Guomaocheng\DBUtility\obj\Release\DBUtility.pdb
